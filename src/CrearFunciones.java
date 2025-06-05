@@ -37,6 +37,7 @@ public class CrearFunciones {
           }
           for(){
               System.out.println("Hello word");
+
           }
 
 
