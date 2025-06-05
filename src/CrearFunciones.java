@@ -35,7 +35,7 @@ public class CrearFunciones {
           for (Funcion funcion:funciones){
               System.out.println();
           }
-          for
+          for(){}
 
 
         }
